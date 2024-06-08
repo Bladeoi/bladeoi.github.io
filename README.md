@@ -1,5 +1,3 @@
 BioLink Proje
 
-https://mondats.glitch.me/
-
-https://mondats.github.io
+https://bladeoi.github.io/
